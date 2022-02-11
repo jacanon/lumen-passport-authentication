@@ -22,3 +22,15 @@ If you discover a security vulnerability within Lumen, please send an e-mail to 
 ## License
 
 The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Route Screenshots
+
+### Registration
+<img width="1221" alt="Screen Shot 2022-02-12 at 12 44 39 AM" src="https://user-images.githubusercontent.com/61305399/153632582-2086ef6a-c0a1-4789-b005-2b88b8ded4cd.png">
+
+### Login
+
+<img width="1221" alt="Screen Shot 2022-02-12 at 12 44 42 AM" src="https://user-images.githubusercontent.com/61305399/153632751-27ca9116-157a-44ce-869b-0f412189748f.png">
+
+### User Profile
+<img width="1221" alt="Screen Shot 2022-02-12 at 12 44 45 AM" src="https://user-images.githubusercontent.com/61305399/153632766-46e6500b-4b08-4979-b4d2-7ded7f9639f7.png">
